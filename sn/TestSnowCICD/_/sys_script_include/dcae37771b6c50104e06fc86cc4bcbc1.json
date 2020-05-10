@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_226232_testsnowc.TestSnowScript",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "TestSnowScript",
+  "script": {
+    "____see": "sn/TestSnowCICD/Script Include/active_true/x_226232_testsnowc.TestSnowScript.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-05-10 13:51:04",
+  "sys_id": "dcae37771b6c50104e06fc86cc4bcbc1",
+  "sys_mod_count": 1,
+  "sys_name": "TestSnowScript",
+  "sys_package": "348ef3371b6c50104e06fc86cc4bcb3b",
+  "sys_policy": "read",
+  "sys_scope": "348ef3371b6c50104e06fc86cc4bcb3b",
+  "sys_update_name": "sys_script_include_dcae37771b6c50104e06fc86cc4bcbc1",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-05-10 13:51:31"
+}
